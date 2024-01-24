@@ -1,0 +1,13 @@
+.dashboard-container{
+    flex-grow: 0.8;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-row-gap: 5em;
+    padding-left: 2em;
+}
+
+.widget-container{
+    height: 10em;
+    display: flex;
+    flex-direction: column;
+}
