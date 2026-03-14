@@ -1,0 +1,39 @@
+/* Global */
+
+.flex {
+  display: flex;
+}
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-items: center;
+}
+
+/* Top bar */
+.top-bar {
+  background-color: #71bfde;
+}
+
+.body-section {
+  margin-top: 10vh;
+}
+
+.body-section .text-input-section {
+  width: 51%;
+  margin-bottom: 20px;
+}
+
+#url-text-input {
+  width: 100%;
+}
+
+.page-button {
+  cursor: pointer;
+}
